@@ -2,8 +2,11 @@
  Trabalho Prático da disciplina Computação Gráfica - Reconhecimento de Faces.
  
  1º) extrair_frames - Para extrair frames de um vídeo e salvá-los em um diretório;
+ 
  2º) detectar_faces - Para ler os frames do diretório criado no passo anterior, em busca de uma determinada face, e salvar as imagens com faces reconhecidas ou não, em um novo diretório. Também é gerada a informação sobre em quais frames, a face indicada foi reconhecida;
+ 
  3º) salvar_video_faces - Para ler as imagens salvas no passo anterior e gravar o vídeo com estas novas imagens.
+ 
  
  Neste trabalho, 
        - o vídeo de entrada, utilizado no 1º passo: avengers.mp4
