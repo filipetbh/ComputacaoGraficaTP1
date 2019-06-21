@@ -8,10 +8,16 @@
  3º) salvar_video_faces - Para ler as imagens salvas no passo anterior e gravar o vídeo com estas novas imagens.
  
  
- Neste trabalho, 
+ Neste trabalho,
+ 
        - o vídeo de entrada, utilizado no 1º passo: avengers.mp4
+       
        - os frames extraídos do vídeo no 1º passo e utilizados para a busca da face no 2º passo são salvos no diretório: data
+       
        - a face a ser procurada está em: imagem/tonyStark.jpg
+       
        - as imagens com as faces detectadas ou não, geradas no 2º passo, são salvas no diretório: data/ImagesFaces
+       
        - o vídeo resultante, gerado no 3º passo: Avenger - Tony Stark.avi
+       
        - as informações com a identificação dos frames em que a face foi identificada no 2º passo, foram salvas na planilha: Relatório - Identificação de Frames com faces reconhecidas.
